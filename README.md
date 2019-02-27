@@ -33,3 +33,12 @@ Some basic writing.  Periods, commas, letters.  All the stuff you learn(ed) in 3
 Here's where thing get a bit more advanced.
 
 ![Kokaiop Latin Extended-A](Screenshots/kokaiop3.png)
+
+A shot of Greek. (Around 1/2 done at the time of writing)
+
+![Kokaiop Greek](Screenshots/kokaiop4.png)
+
+And finally, Cryllic.
+
+![Kokaiop Cryllic](Screenshots/kokaiop5.png)
+
