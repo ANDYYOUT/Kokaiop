@@ -13,7 +13,7 @@ A fully-featured, and working, font.
 
 ## About
 
-Kokaiop \(pronounced ko-kye-op) is a font project of mine.  It's a glyph-based font, but it still supports basic English, most Greek, a hint of Cryllic \(all those Russian letters) and some miscellaneous symbols.  It also supports around 1/4-1/2 of Latin Extended-A in case you were wondering.
+Kokaiop \(pronounced ko-kye-op) is a font project of mine.  It's a glyph-based font, but it still supports basic English, most Greek, a hint of Cryllic \(all those Russian letters) and some miscellaneous symbols.  It also supports the entirety of Latin-1 Supplement, in case you were wondering.
 
 The font itself was created in FontForge, so kudos to them.
 
