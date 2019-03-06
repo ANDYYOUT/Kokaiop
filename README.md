@@ -20,6 +20,7 @@ The font itself was created in FontForge, so kudos to them.
 ## Status
 
 - [x] Supporting Basic English
+- [x] Fully Supporting Latin-1 Supplement
 - [ ] Fully Supporting Latin Extended-A
 - [ ] Fully Supporting Greek
 - [ ] Fully Supporting Cryllic
@@ -32,7 +33,7 @@ Some basic writing.  Periods, commas, letters.  All the stuff you learn(ed) in 3
 
 Here's where thing get a bit more advanced.
 
-![Kokaiop Latin Extended-A](Screenshots/kokaiop3.png)
+![Kokaiop Latin-1 Supplement / Latin Extended-A](Screenshots/kokaiop3.png)
 
 A shot of Greek. (Around 1/2 done at the time of writing)
 
