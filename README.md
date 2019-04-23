@@ -23,7 +23,7 @@ The font itself was created in FontForge, so kudos to them.
 - [x] Fully Supporting Latin-1 Supplement
 - [ ] Fully Supporting Latin Extended-A
 - [ ] Fully Supporting Greek
-- [ ] Fully Supporting Cryllic
+- [x] Fully Supporting Cryllic
 
 ## Screenshots
 
